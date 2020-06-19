@@ -1,3 +1,8 @@
+# Modification
+Based on agsh/onvif
+added ImagingSetting Options
+wideDynamicRange: 'ON' / 'OFF'
+
 # ONVIF
 
 [![Build Status](https://travis-ci.org/agsh/onvif.png)](https://travis-ci.org/agsh/onvif)
